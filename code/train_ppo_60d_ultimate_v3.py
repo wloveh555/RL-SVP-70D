@@ -25,7 +25,7 @@ EPS = 1e-8
 
 # ===================== 配置 =====================
 BASIS_NUM_60 = 60
-LATTICE_DIR = r"/mnt/d/generator/六十维"
+LATTICE_DIR = r""
 FILE_PATTERN = "random_lattice_60_*"
 
 # ★ 多尺度起点配置

@@ -28,7 +28,7 @@ EPS = 1e-8
 
 # ===================== 70维配置 =====================
 BASIS_NUM_70 = 70
-LATTICE_DIR = r"/mnt/d/generator/七十维"  # ★ 路径需确认
+LATTICE_DIR = r""  # ★ 路径需确认
 FILE_PATTERN = "random_lattice_70_*"
 
 START_LLL_DELTAS = [0.5, 0.7, 0.8]

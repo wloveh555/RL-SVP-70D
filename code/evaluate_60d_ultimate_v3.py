@@ -22,7 +22,7 @@ except ImportError:
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 BASIS_NUM_60 = 60
-LATTICE_DIR = r"/mnt/d/generator/六十维"
+
 FILE_PATTERN = "random_lattice_60_*"
 
 # ★ 必须与 V-ULTIMATE-V3 训练配置完全一致
